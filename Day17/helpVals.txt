@@ -1,0 +1,11 @@
+
+
+#0 A = int(A / 2**Coperand)
+#1 B = B ^ Loperand
+#2 B = Coperand%8
+#3 jump to Loperand if A is not 0
+#4 B = B ^ C
+#5 output Coperand%8
+#6 B = int(A / 2**Coperand)
+#7 C = int(A / 2**Coperand)
+
