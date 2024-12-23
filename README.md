@@ -22,9 +22,9 @@ The solutions posted here are functional but unoptimized unless marked otherwise
 - [X] 13
 - [X] 14
 - [ ] 15
-- [ ] 16
+- [X] 16
 - [ ] 17
-- [ ] 18
+- [X] 18
 - [ ] 19
 - [ ] 20
 - [ ] 21

@@ -6,7 +6,6 @@ print(data)
 test = [0]
 print()
 
-#PROBLEM 1
 from functools import cache
 @cache
 def blinkStones(stone, iterV):
